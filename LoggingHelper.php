@@ -12,7 +12,7 @@ class LoggingHelper {
     /**
      * @var string, Log Directory Name 
      */
-    private $path = '/logs/';
+    private $path = '/tmp/logs/';
 
     /**
      * @void, Default Constructor, Sets the timezone and path of the log files.
